@@ -1,4 +1,4 @@
-Student_ID,Submission_Type,Academic_Level,Primary_Language,Word_Count,Average_Sentence_Length,Grammar_Errors,Vocabulary_Richness,Passive_Voice_Ratio,Reading_Level,Editing_Time,Revision_Count,Typing_Speed,Plagiarism_Score,Citation_Count,Punctuation_Density,Sentence_Complexity,Font_Family,Submission_Hour,Is_AI_Assisted
+ Student_ID,Submission_Type,Academic_Level,Primary_Language,Average_Sentence_Length,Grammer_Errors,Vocabulary_Richness,Passive_Voice_Ratio,Reading_Level,Editing_Time,Revision_Count,Typing_Speed,Plagiarism_Score,Citation_Count,Punctuation_Density,Sentence_Complexity,Font_Family,Submission_Hour,Is_AI_Assisted
 16959e76,Lab_Report,Postgraduate,Native,1552,16.9,8,0.62,0.11,11.85,129.05,16,24.7,3.02,0,0.08,2.01,Arial,18,0
 0a304e7f,Research_Paper,Undergraduate,Native,950,16.71,5,0.47,0.31,10.34,236.6,23,38.84,1.71,15,0.07,1.72,Helvetica,15,0
 6e629f9f,Essay,Undergraduate,Non_Native,1103,22.1,1,0.76,0.38,14.35,4.72,4,0.0,0.41,0,0.08,2.35,Arial,17,1
